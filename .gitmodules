@@ -1,0 +1,6 @@
+[submodule "tensorflow_models"]
+	path = tensorflow_models
+	url = https://github.com/tensorflow/models.git
+[submodule "sentence-compression"]
+	path = sentence-compression
+	url = https://github.com/google-research-datasets/sentence-compression.git
